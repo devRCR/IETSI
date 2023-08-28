@@ -1,6 +1,6 @@
-# Nombre del Proyecto
+# Sistema de llamada para pacientes mediante módulos inalámbricos
 
-Breve descripción del proyecto aquí.
+Solución tecnológica diseñada para facilitar la comunicación entre el personal médico o de enfermería y los pacientes en entornos de atención médica, como hospitales o clínicas, mediante el uso de módulos de radiofrecuencia con pulsadores que realizan las funciones de "Atender paciente", "Rellamar" y "Finalizar".
 
 ## Table of Contents
 
